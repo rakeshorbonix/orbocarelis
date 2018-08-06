@@ -1,0 +1,337 @@
+
+/* Fonts ---------------------------- */
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Code Pro'), local('SourceCodePro'), url(fonts/SourceCodePro-Regular.ttf) format('truetype');
+}
+
+
+/* Global ---------------------------- */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  font-family: 'BlinkMacSystemFont', 'Lucida Grande', 'Segoe UI', Ubuntu, Cantarell, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  overflow: hidden; /* Prevents rubber-band scrolling of the whole "page" */
+  color: var(--color);
+  background-color: #fff; /* To cover OSes with no default background color */
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  display: flex;
+  font-size: 14px;
+}
+
+.loader {
+    border: 5px solid #000; /* Light grey */
+    border-top: 5px solid hsl(186, 100%, 42%); /* Blue */
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 2s linear infinite;
+    position: absolute;
+    left : 50%;
+top : 50%;
+z-index: 10;
+margin-right: -60px;
+margin-left: -60px;
+margin-top: -20px;
+}
+.hide{
+  display: none !important;
+}
+
+a {
+  color: var(--color-link);
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 1.12em;
+  font-weight: 600;
+}
+
+table {
+  width: 100%;
+  border-spacing: 0;
+  border: 1px solid hsla(0,0%,0%,.08);
+  border-width: 0 1px 1px 0;
+}
+th {
+  background-color: hsla(0,0%,50%,.06);
+}
+th,
+td {
+  text-align: center;
+  border: 1px solid hsla(0,0%,0%,.08);
+  border-width: 1px 0 0 1px;
+}
+
+svg {
+  fill: currentColor;
+}
+
+/* Code */
+
+code, kbd {
+  font-family: 'Source Code Pro', monospace;
+  border-radius: 4px;
+  padding: 1px 4px;
+  white-space: nowrap;
+  color: hsl(0,0%,36%);
+  background-color: hsla(0,0%,60%,.15);
+}
+
+pre, kbd {
+  font-size: 13px;
+  overflow: auto;
+  padding: 1em;
+  margin: 0;
+  border-radius: 4px;
+  border: 1px solid;
+  border-color: var(--color-border);
+  background-color: white;
+}
+
+pre code {
+  white-space: pre;
+}
+
+pre > .hljs {
+  color: var(--color-subtle);
+  background-color: white;
+}
+
+kbd {
+  padding: 0.5em;
+}
+
+
+/* Utilities ---------------------------- */
+
+.u-avoid-clicks {
+  pointer-events: none;
+}
+
+/* Visually hidden, but will be read by screen readers */
+.u-visible-to-screen-reader {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.no-display {
+  display: none;
+}
+
+
+/* Content ------------------ */
+
+.content {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  visibility: hidden;
+  opacity: 0;
+}
+.content.is-shown {
+  visibility: visible;;
+  opacity: 1;
+}
+.page_button {
+  padding: .4em 1.2em;
+  font: inherit;
+  color: #000;
+  border-radius: 4px;
+  margin-left: 10px;
+  background-color: transparent;
+}
+.page_button:focus {
+  outline: none;
+}
+input[type=text],input[type=date], select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+    display: inline-block;
+}
+.awesomplete{
+  display: block !important;
+}
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=submit],input[type=button] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+.add,.sub{
+      padding: 3px 5px !important;
+}
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.error{
+    border: 2px solid red !important;
+    border-radius: 4px !important;
+}
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+
+/* Hacks ---------------------------- */
+
+/* Fixes horizontal scrolling in code blocks on OS X El Cap (10.11.3), retina screen
+ *
+ * By adding an invisible outline property, it will force a repaint
+ * which enables the scrolling.
+ */
+
+.hljs:hover,
+.hljs:active {
+  outline: 1px solid transparent;
+}
+.selected{
+  background-color: green;
+  color:white;
+}
+.marg5{
+  margin-right:5px !important;
+}
+#doctor_add{
+      margin-top: 20px;
+}
+#client_add{
+      margin-top: 20px;
+}
+.no-border, .no-border tr,.no-border td{
+  border: none !important;
+}
+.no-border{
+  border-bottom: 3px solid #000;
+}
+.div_border{
+  border: 1px solid #000;
+}
+.float-left{
+  float:left;
+}
+.float-right{
+  float:right;
+}
+.tests{
+  border-right-style: solid;
+}
+.tests{
+  width:60%;
+  height:400px;
+  overflow: auto;
+}
+.test_reports{
+  width:100%;
+  height:300px;
+  overflow: auto;
+}
+.prices{
+  width:40%;
+  height:400px;
+}
+#test_select{
+  margin-top: 20px;
+margin-right: 70px;
+float: right;
+}
+.patient_reg input[type='text']{
+  padding:5px !important;
+}
+.add,.sub{
+  float:none!important;
+}
+.testname_tr{
+  text-align: left;
+  padding-left: 10px;
+}
+.save{
+  margin:40px;
+}
+table{
+  overflow: scroll;
+}
+.scroll,.scroll_table{
+  position: relative;
+  height: 200px;
+  overflow: scroll;
+}
+.scroll_table.h400{
+  height: 400px;
+}

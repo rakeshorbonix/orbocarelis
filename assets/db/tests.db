@@ -1,0 +1,340 @@
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"SHOULDER JOINT","testKey":"-LD0YDHmGUPFoJW8_swx","_id":"00HuOQloTHijfJVj"}
+{"group_name":"MICROBIOLOGY","mrp":"1200.00","test_name":"BLOOD C/S","testKey":"-LD0YDJORZO03EQuYeGf","_id":"0QnHLQJrNJnlg8AR"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"100.00","test_name":"URINE FOR PH","testKey":"-LD0YDHHghJJ-rzFclbT","_id":"0gYfcgaN7ymC93gv"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"INSULIN �FASTING","testKey":"-LD0YDJ6JavOdy50XbKr","_id":"17KyzSZDeQXP3Q0I"}
+{"group_name":"SEROLOGY","mrp":"350.00","test_name":"R.A.F","testKey":"-LD0YDJfDOuUrInsLFLz","_id":"1L3bQBonTULz36jr"}
+{"group_name":"MICROBIOLOGY","mrp":"750.00","test_name":"FUNGAL CULTURE & SENSITIVITY","testKey":"-LD0YDJPdQFlXPj2G8bo","_id":"1M1rWadd9k9H1zR1"}
+{"group_name":"X-RAY","mrp":"100.00","test_name":"DENTAL(MANUAL)","testKey":"-LD0YDJuvMsH0qeUV3Mb","_id":"1aQ6PR0DIyd0EsGC"}
+{"group_name":"HAEMATOLOGY","mrp":"80.00","test_name":"NSE","testKey":"-LD0YDIjWCb71wVdNTNn","_id":"1aS80Zc8VlPcvWhV"}
+{"group_name":"HORMONE ASSAY","mrp":"1800.00","test_name":"ANTI CCP","testKey":"-LD0YDIsYNhn5K0_STmq","_id":"1cGvyTj6fSm933dd"}
+{"group_name":"X-RAY","mrp":"450.00","test_name":"KUB","testKey":"-LD0YDJyN3GCASBPa2SY","_id":"206WmImVN0G9zrrl"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"C-PEPTIDE-PP(R157)","testKey":"-LD0YDJ0a8peu0fmHVax","_id":"2JFi8XvrKG7Nrio8"}
+{"group_name":"HORMONE ASSAY","mrp":"700.00","test_name":"PROGESTERONE","testKey":"-LD0YDJ7XyylGXNZ0cGf","_id":"2Pkc17febnpIKUPy"}
+{"group_name":"HAEMATOLOGY","mrp":"1500.00","test_name":"THALASSAEMIA PROFILE","testKey":"-LD0YDImA03ZpSzC6Glq","_id":"2Pn2W2zKijxAADXD"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"ANKLE AP/LAT","testKey":"-LD0YDJravXRabG5ajBa","_id":"37IDe5d3f1Kqr3d3"}
+{"group_name":"HAEMATOLOGY","mrp":"350.00","test_name":"PT-INR","testKey":"-LD0YDIlJiJaytWFw2WC","_id":"3v9nX6X9TxaUTwzZ"}
+{"group_name":"CT SCAN","mrp":"3000.00","test_name":"BRAIN & ORBIT","testKey":"-LD0YDHZWi7xULJAhzbG","_id":"43Fcpf8HVsK0u1NI"}
+{"group_name":"X-RAY","mrp":"2100.00","test_name":"IVP(DIGITAL)","testKey":"-LD0YDJxjEoYK-xJ9CW_","_id":"48zm9puR1YpDgHS1"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"HSV-1/2(IGM)","testKey":"-LD0YDJ5Ydt_qkIaQHY9","_id":"4CBzTivHj2KRrLqO"}
+{"group_name":"SEROLOGY","mrp":"250.00","test_name":"MP-ICT(PF/PV)","testKey":"-LD0YDJeMQ3i7QqNZuTm","_id":"4OvtMsOMR0ccz5JG"}
+{"group_name":"BIOCHEMISTRY","mrp":"450.00","test_name":"MAGNESSIUM","testKey":"-LD0YDFr7kJmtyth9WH1","_id":"4XHrVIkHcdgymWhK"}
+{"group_name":"BIOCHEMISTRY","mrp":"200.00","test_name":"PROTEIN","testKey":"-LD0YDG5be11TzciLvG1","_id":"4YC2wf1AL77ZYtOa"}
+{"group_name":"HORMONE ASSAY","mrp":"3800.00","test_name":"CMV (PCR)","testKey":"-LD0YDIxNkxH6xBevukV","_id":"4YsJ29Pcjmp3rqMR"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"URINE- C/S","testKey":"-LD0YDJStJ2oojP-AOc_","_id":"4bitIZZ8TELp71i7"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"THROAT SWAB-C/S","testKey":"-LD0YDJStJ2oojP-AOcZ","_id":"4kcOOLv2guxzU82L"}
+{"group_name":"HAEMATOLOGY","mrp":"250.00","test_name":"PS COMMENT(LAL-H029)","testKey":"-LD0YDIkBlabMecWaffY","_id":"4lRGKL7kF2Cj2tU1"}
+{"group_name":"CYTOLOGY","mrp":"400.00","test_name":"CSF-CYTOLOGY","testKey":"-LD0YDHq3Ep7NiWTSnxz","_id":"4oLxlyBCI2GozFU6"}
+{"group_name":"X-RAY","mrp":"150.00","test_name":"SKULL-PNS(MANUAL)","testKey":"-LD0YDK5RECK_tP1kv6e","_id":"5CmrexaV3JhhpStC"}
+{"group_name":"SEROLOGY","mrp":"200.00","test_name":"VDRL","testKey":"-LD0YDJhXRA2lo5Cqyn_","_id":"5Ct4DZnARTBvDtI1"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"NECK AP /LATERAL","testKey":"-LD0YDJzkpUVZkTUuAd_","_id":"5zasg8aS8yNuIbqS"}
+{"group_name":"BIOCHEMISTRY","mrp":"350.00","test_name":"AMYLASE","testKey":"-LD0YDFUuWRMGY2ZZSjO","_id":"60STNPIKst2JdHfX"}
+{"group_name":"ENDOSCOPY","mrp":"1000.00","test_name":"UGI ENDOSCOPY","testKey":"-LD0YDHwzwOvFTdbVI6n","_id":"62fC8xCvpQ0GhRQD"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"CMV AVIDITY(IgG)","testKey":"-LD0YDIyxnWj4lzN95Q-","_id":"665dzlOfetfQqmbf"}
+{"group_name":"HAEMATOLOGY","mrp":"50.00","test_name":"NEW TEST 2","testKey":"-LD0YDIScH4d-sniQtH4","_id":"6fCsah54K4FmlQII"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"PLBS","testKey":"-LD0YDG3d54iFzkCLuFn","_id":"6maRi27S90nTmanN"}
+{"group_name":"X-RAY","mrp":"1000.00","test_name":"SINOGRAM(DIGITAL)","testKey":"-LD0YDK1sNXAVqnMSlSR","_id":"77RDRdw7BoiKZtf2"}
+{"group_name":"X-RAY","mrp":"750.00","test_name":"BARIUM ENEMA(DIGITAL)","testKey":"-LD0YDJravXRabG5ajBb","_id":"78zkRX7ptwV7gF0e"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"CHLORIDE","testKey":"-LD0YDFXA3Y1ClC86Si4","_id":"7EtzfgRyAbli0sDi"}
+{"group_name":"BIOCHEMISTRY","mrp":"500.00","test_name":"LIPID PROFILE","testKey":"-LD0YDFqEo6SUTwxxGSq","_id":"7GjU4yVAepSPVo5j"}
+{"group_name":"HAEMATOLOGY","mrp":"200.00","test_name":"SICKLING TEST","testKey":"-LD0YDImA03ZpSzC6Glp","_id":"7nkB15SRhfgcHBSs"}
+{"group_name":"REPORTING","mrp":"100.00","test_name":"REPORTING RS-100","testKey":"-LD0YDJTS9j91VPcCp3H","_id":"7r2qNUZgFFa3XqpW"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"150.00","test_name":"STOOL OB","testKey":"-LD0YDGslgs7RvbXiE8D","_id":"87CQte2IVOHIghlM"}
+{"group_name":"DR CHARGE","mrp":"0.00","test_name":"OPD FEE","testKey":"-LD0YDHtYIQfiENzGT4J","_id":"8ELEljoayRuq99xD"}
+{"group_name":"HORMONE ASSAY","mrp":"3000.00","test_name":"INFERTILITY COMPREHENSIVE PANEL, FEMALES","testKey":"-LD0YDJ5Ydt_qkIaQHYA","_id":"8HySDpUzU5dag5fC"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"CREATININE","testKey":"-LD0YDFcKoXpnqni5Uez","_id":"8XWtD4pYYS8jW4FB"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"500.00","test_name":"URINE FOR B.J.P.","testKey":"-LD0YDHFrYccTDd5jjjo","_id":"8eUqW1UFQFnZsU4G"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"URINE CREATININE","testKey":"-LD0YDGgZbQkrPD5Ji0l","_id":"8uvB4vSRuZOHzxN3"}
+{"group_name":"HAEMATOLOGY","mrp":"100.00","test_name":"BT/CT","testKey":"-LD0YDHzQdFhAbU5swmH","_id":"8zgY9DLcVNbidb9V"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"200.00","test_name":"TONGUE SCRAPING FOR FUNGUS","testKey":"-LD0YDGvi33D5er-tmlA","_id":"9QiFAelkWBW2KbB5"}
+{"group_name":"CT SCAN","mrp":"3000.00","test_name":"BRAIN & PNS","testKey":"-LD0YDHcyNiLxbpii18g","_id":"9WTB7TovXqMva0tr"}
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"ANKLE   JOINT","testKey":"-LD0YDHSXLkIIuIg5lE_","_id":"9gI11WIR1Tu6LAb6"}
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"BOTH  HIP JOINT","testKey":"-LD0YDHUBqRvEv4wpupU","_id":"9shA4ZLUBLwxDYCT"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"SERUM POTASSIUM(K+)","testKey":"-LD0YDG6L0athexFZsNV","_id":"9srtvTGqjykGuSus"}
+{"group_name":"BIOCHEMISTRY","mrp":"500.00","test_name":"ACID PHOSPHATASE","testKey":"-LD0YDFOALSNRAh1AXK3","_id":"A8P3EFWvzBdI10Mz"}
+{"group_name":"DOCTOR CUNSULTION","mrp":"300.00","test_name":"CONSULTION","testKey":"-LD0YDHtYIQfiENzGT4I","_id":"AB9x547YeoVj9sCK"}
+{"group_name":"CYTOLOGY","mrp":"500.00","test_name":"PAP SMEAR","testKey":"-LD0YDHre9TveyKhKb0F","_id":"AN5Wp5gjsY0mXdot"}
+{"group_name":"HORMONE ASSAY","mrp":"550.00","test_name":"FSH","testKey":"-LD0YDJ1nu7wD9oEH4bN","_id":"AaYmT8Vw4UcJ7PIO"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"SPUTUM-C/S","testKey":"-LD0YDJRtx_VzDs4zEe0","_id":"Af3V6ugy3W5hXTKJ"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"PGBS-2Hrs.","testKey":"-LD0YDG2yg5RoLWJ0Wjx","_id":"AlJFPlxiTYkPS1tD"}
+{"group_name":"HAEMATOLOGY","mrp":"200.00","test_name":"MALARIA  ANTIGEN TEST(PF/PV)","testKey":"-LD0YDIJ_ndG2JzHtexz","_id":"BEe37NcvocqdBcNf"}
+{"group_name":"BIOCHEMISTRY","mrp":"250.00","test_name":"AG RATIO","testKey":"-LD0YDFRFKiZ-cS1svnz","_id":"BXH6xP96pkOPSY0O"}
+{"group_name":"HAEMATOLOGY","mrp":"250.00","test_name":"AEC","testKey":"-LD0YDHwzwOvFTdbVI6p","_id":"BuFznL1lvndG4Kfm"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"BILIRUBIN","testKey":"-LD0YDFVO7LCa8s4OPhr","_id":"C6hZXpOyIH3cfsKI"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"A.S.O.TITRE","testKey":"-LD0YDJWxtQ90fy0PZf4","_id":"C8neC4q5vQwNZqYL"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"200.00","test_name":"VAGINAL DISCHARGE","testKey":"-LD0YDHOxnrCgnNwmX47","_id":"CvxS8sP6o2ylYf49"}
+{"group_name":"HAEMATOLOGY","mrp":"150.00","test_name":"CR.TEST","testKey":"-LD0YDI-XvLsVJeodeEe","_id":"D8IRP15urZ4tEPhk"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"PBBS","testKey":"-LD0YDFs8DM8T9ke11lq","_id":"DENcDtPB8NkyXXC9"}
+{"group_name":"IMMUNO LOGY","mrp":"250.00","test_name":"HIV - I & II(SCREENING)","testKey":"-LD0YDJMzLYlI3hz97Um","_id":"DiQ3V0GWIhRUTXND"}
+{"group_name":"CT SCAN","mrp":"3000.00","test_name":"BRAIN & TM JOINT","testKey":"-LD0YDHfTIpqibL9qIvg","_id":"DrTu1VEIDeqUPJOM"}
+{"group_name":"X-RAY","mrp":"700.00","test_name":"C S SPINE DIGITAL","testKey":"-LD0YDJtVXoi8Bg_E-AS","_id":"EEzD9bLpUAKARU8m"}
+{"group_name":"BIOCHEMISTRY","mrp":"350.00","test_name":"LIPASE","testKey":"-LD0YDFqEo6SUTwxxGSp","_id":"EiVI0A0ZTNosv5K6"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"CA-125","testKey":"-LD0YDIwOG64NEXX9-ax","_id":"Ep96ulc413Ef356W"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"SERUM SODIUM(NA+)","testKey":"-LD0YDG6L0athexFZsNW","_id":"ErhaSRlFxNCG0t0L"}
+{"group_name":"IMMUNO LOGY","mrp":"1000.00","test_name":"HBS AG(ELISA)","testKey":"-LD0YDJJnbrW-QcU7qc2","_id":"EzYDogf19Mmqo37q"}
+{"group_name":"ULTRASOUND","mrp":"600.00","test_name":"USG �ABDOMEN AND PELVICS","testKey":"-LD0YDJmaBzfIrhIdbZM","_id":"F3kaQX4YBVGLqm3l"}
+{"group_name":"BIOCHEMISTRY","mrp":"500.00","test_name":"KFT","testKey":"-LD0YDFmOrPEMjavq3xf","_id":"F4h7zZHzDLlc8zCf"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"SKULL-MANDIBLE(DIGITAL)","testKey":"-LD0YDK334BWVKrRBG3x","_id":"F9rDm482KOCFQJEA"}
+{"group_name":"SEROLOGY","mrp":"200.00","test_name":"VDRL-1:8","testKey":"-LD0YDJiZCrLSiMwgmMK","_id":"FO16Icut5SwbJCFl"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"PELVICS-AP/LAT(DIGITAL)","testKey":"-LD0YDK-VnHSPRdDkXNS","_id":"FO8UEe4Tfpnk7MSV"}
+{"group_name":"IMMUNO LOGY","mrp":"1000.00","test_name":"ANA","testKey":"-LD0YDJGs6vOC5ZbuL4w","_id":"FhB36WX6MGDUJ9VH"}
+{"group_name":"HORMONE ASSAY","mrp":"1100.00","test_name":"HOMOCYSTEINE","testKey":"-LD0YDJ4F_zP18fKTcy1","_id":"FiBB4XdFGdrU2pzr"}
+{"group_name":"HORMONE ASSAY","mrp":"1900.00","test_name":"ANTI PHOSPHOLIPID ANTIBODY","testKey":"-LD0YDItWd_6ITUt2NPp","_id":"Fr4XYTdK6AQT3BlO"}
+{"group_name":"IMMUNO LOGY","mrp":"350.00","test_name":"HCV","testKey":"-LD0YDJKb1jlgzwRGhHk","_id":"FyuzoTI5JeW2l2Ki"}
+{"group_name":"ENDOSCOPY","mrp":"2800.00","test_name":"COLONOSCOPY  ENDOSCOPY","testKey":"-LD0YDHvbEyF1RPJxHQN","_id":"GE5gJESamdhB6nAG"}
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"L S SPINE","testKey":"-LD0YDHizpd_5edUqOtL","_id":"GbTZStKEkZq1L13g"}
+{"group_name":"BIOCHEMISTRY","mrp":"220.00","test_name":"S.ELECTROLYTE","testKey":"-LD0YDG5be11TzciLvG3","_id":"GbeXDD17tzNRd7IT"}
+{"group_name":"ALLERGY PANEL","mrp":"6500.00","test_name":"ALLERGY FOOD,DRUG&COSMETIC PANEL","testKey":"-LD0YDEhur6cwJzv0Sug","_id":"GbuDAmLJaPLQPT2E"}
+{"group_name":"CYTOLOGY","mrp":"500.00","test_name":"PERITONIAL FLUID-CYTOLOGY","testKey":"-LD0YDHserbTEUKfGeFb","_id":"GdJrJkjqbRTDMsaQ"}
+{"group_name":"HORMONE ASSAY","mrp":"500.00","test_name":"TOXO AVIDITY(IgG)","testKey":"-LD0YDJFe3_dUWH3HUUL","_id":"GgqU9VXNtlTKmpcO"}
+{"group_name":"HORMONE ASSAY","mrp":"1200.00","test_name":"C-PEPTIDE-FASTING(R055)","testKey":"-LD0YDIztpDLWQ8CqP_X","_id":"H174X4HCzS98wywc"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"CHEST-PA VIEW(DIGITAL)","testKey":"-LD0YDJuvMsH0qeUV3M_","_id":"HE1unIuDEGtMfzHp"}
+{"group_name":"BIOCHEMISTRY","mrp":"500.00","test_name":"HbA1C","testKey":"-LD0YDFiynq8QsPYyaz8","_id":"HEhlXpz43tnhYUwC"}
+{"group_name":"MICROBIOLOGY","mrp":"200.00","test_name":"PUS FOR AFB","testKey":"-LD0YDJQ_VKJvYc77QqC","_id":"Hi5cOoUk9Ke4qEvC"}
+{"group_name":"HORMONE ASSAY","mrp":"2800.00","test_name":"HLA-B27","testKey":"-LD0YDJ3IaV8mSuDDhqV","_id":"IKbplemXtpJLbSe1"}
+{"group_name":"IMMUNO LOGY","mrp":"2000.00","test_name":"HEPATITIS B CORE-TOTAL","testKey":"-LD0YDJLhRSy5Nc_9z9U","_id":"IO1qJj6ksXmvYk1N"}
+{"group_name":"X-RAY","mrp":"1000.00","test_name":"FISTULOGRAM(DIGITAL)","testKey":"-LD0YDJveT1AoGpXhgLA","_id":"IQRf7e59jSUstt19"}
+{"group_name":"ULTRASOUND","mrp":"1.00","test_name":"NEW TEST WORD","testKey":"-LD0YDJlreuyF_n6euYU","_id":"Ims8yQIRGAQ7RPIx"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"HIP LATERAL(DIGITAL)","testKey":"-LD0YDJveT1AoGpXhgLC","_id":"IpjGkgvOT7Oo5sZM"}
+{"group_name":"X-RAY","mrp":"250.00","test_name":"PELVICS- LAT(DIGITAL)","testKey":"-LD0YDK-VnHSPRdDkXNP","_id":"IwCcwb9z6560rwYC"}
+{"group_name":"HISTOPATHOLOGY","mrp":"400.00","test_name":"BIOPSY-SMALL","testKey":"-LD0YDIrTvymlAvFL2qk","_id":"IxuQVLakv20laVBd"}
+{"group_name":"HORMONE ASSAY","mrp":"3000.00","test_name":"TORCH (10 PARAMETER)","testKey":"-LD0YDJFe3_dUWH3HUUJ","_id":"JEosdcLmmx2vAWqp"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"ALKALINE PHOSPHATASE","testKey":"-LD0YDFTAYTu9G-J0zE1","_id":"JJ5f1McrvhEMBMzh"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"USG TESTIS","testKey":"-LD0YDJqhbr9csGG6HWW","_id":"JMdFXFbW0rJGjmtT"}
+{"group_name":"HAEMATOLOGY","mrp":"100.00","test_name":"XXX","testKey":"-LD0YDIn_-8b57Vs60on","_id":"Jd7QF06qZe9C7ILH"}
+{"group_name":"HAEMATOLOGY","mrp":"50.00","test_name":"TPC","testKey":"-LD0YDImA03ZpSzC6Gls","_id":"JeHHfc3gOT8ahm5c"}
+{"group_name":"BIOCHEMISTRY","mrp":"300.00","test_name":"GLOBULIN","testKey":"-LD0YDFgraeP3_qMANxV","_id":"Jkvl5ha96rXTx3CO"}
+{"group_name":"HAEMATOLOGY","mrp":"50.00","test_name":"DC","testKey":"-LD0YDI0hq2bpTC90Xp7","_id":"JlDdpp52E6iuGmAD"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"BODY FLUID-C/S","testKey":"-LD0YDJPdQFlXPj2G8bm","_id":"KFmlvYee3rYhcoJo"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"100.00","test_name":"URINE PREG TEST","testKey":"-LD0YDHJcoPxAIi1llPB","_id":"KZHwsWouQQhQG3R4"}
+{"group_name":"HORMONE ASSAY","mrp":"1500.00","test_name":"ANAEMIA PROFILE-1","testKey":"-LD0YDIrTvymlAvFL2qm","_id":"Kh4fW55fFg1V7qI2"}
+{"group_name":"BIOCHEMISTRY","mrp":"1000.00","test_name":"FOLLIC ACID","testKey":"-LD0YDFeAi6bD-NOmTSP","_id":"L46z0lUaUjasfheA"}
+{"group_name":"ULTRASOUND","mrp":"2400.00","test_name":"DOPPLER STUDY OF LOWER LIMBS","testKey":"-LD0YDJjF0Lw1rUvIZXH","_id":"LJJPohe6anSCSiNs"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"DOPPLER STUDY  OF  LEG","testKey":"-LD0YDJjF0Lw1rUvIZXG","_id":"LLgETruEdqjoGwK2"}
+{"group_name":"Software Developed By : Bidut Software Solution Pvt. Ltd., Web:  www.biduts.com, Phone : 0671-2344433, +91 9668501280/81/90","mrp":"","test_name":"","testKey":"-LD0YDK7Zmrc4VvTWM88","_id":"LPKFLXGpWPoO8AMZ"}
+{"group_name":"BIOCHEMISTRY","mrp":"350.00","test_name":"GAMMA GT","testKey":"-LD0YDFgraeP3_qMANxU","_id":"LXKBP5cgdfxqJLUK"}
+{"group_name":"HAEMATOLOGY","mrp":"200.00","test_name":"PS. COMMENT","testKey":"-LD0YDIlJiJaytWFw2WB","_id":"MRNTVZUNIdG7WT7N"}
+{"group_name":"HORMONE ASSAY","mrp":"1100.00","test_name":"VIT-B12","testKey":"-LD0YDJGs6vOC5ZbuL4u","_id":"MU7xbHbErBHtKZf5"}
+{"group_name":"HORMONE ASSAY","mrp":"2100.00","test_name":"TORCH (5 PARAMETER)","testKey":"-LD0YDJFe3_dUWH3HUUK","_id":"MXrelQ2h1FZJYawB"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"STOOL C/S","testKey":"-LD0YDJRtx_VzDs4zEe1","_id":"Mn4ttSJwtnzYyMIm"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"ASO","testKey":"-LD0YDJWxtQ90fy0PZf5","_id":"Mwz44mZy7d25dAwt"}
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"CHEST (PLAIN)","testKey":"-LD0YDHg1f3LmYOsznX_","_id":"NExuiW7EyPXyQS9D"}
+{"group_name":"X-RAY","mrp":"500.00","test_name":"BARIUM SWALLOW(DIGITAL)","testKey":"-LD0YDJsT1w_D9WNZQKo","_id":"NI14G73cHg839MPI"}
+{"group_name":"EEG","mrp":"1200.00","test_name":"EEG WITH REPORT","testKey":"-LD0YDHvbEyF1RPJxHQM","_id":"Nfznuf3kse2C4FP5"}
+{"group_name":"BIOCHEMISTRY","mrp":"200.00","test_name":"URINE CREATININE(24 HRS)","testKey":"-LD0YDGiG63T-v7JsGga","_id":"NiwcfKY21F7zz3Uj"}
+{"group_name":"BIOCHEMISTRY","mrp":"600.00","test_name":"IGE","testKey":"-LD0YDFlpnmlMNSM0XRd","_id":"Nr6ay1SvawIRykka"}
+{"group_name":"X-RAY","mrp":"700.00","test_name":"HSG(MANUAL)","testKey":"-LD0YDJxjEoYK-xJ9CWZ","_id":"NyGYdZCcvtyXONG2"}
+{"group_name":"REPORTING","mrp":"70.00","test_name":"REPORTING RS-70","testKey":"-LD0YDJUjoW3BnOLOZoe","_id":"O7v0bzemkY8k2DzY"}
+{"group_name":"HAEMATOLOGY","mrp":"50.00","test_name":"TLC","testKey":"-LD0YDImA03ZpSzC6Glr","_id":"OQmOiWmTFP9deGtP"}
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"NECK  (PLAIN)","testKey":"-LD0YDHlxk9c_Gf3GcQ8","_id":"OVXiUXkivGFJJXjU"}
+{"group_name":"HORMONE ASSAY","mrp":"1100.00","test_name":"DHEA(SULPHATE)","testKey":"-LD0YDJ0a8peu0fmHVay","_id":"OqWC31zWE7WeAeNj"}
+{"group_name":"IMMUNO LOGY","mrp":"1000.00","test_name":"HBE AB","testKey":"-LD0YDJINqdbKylddmR9","_id":"PAv5YtwJrw73UTkx"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"Fasting Blood Sugar","testKey":"-LD0YDFd81WE0x1NMNDL","_id":"PFmWwLOKjYkoqPvH"}
+{"group_name":"HORMONE ASSAY","mrp":"1500.00","test_name":"FACTOR-8","testKey":"-LD0YDJ1nu7wD9oEH4bM","_id":"POh2H7IBHGdEusc4"}
+{"group_name":"HAEMATOLOGY","mrp":"50.00","test_name":"TRBC","testKey":"-LD0YDIn_-8b57Vs60om","_id":"PXz84AsOhCYaYLBm"}
+{"group_name":"CYTOLOGY","mrp":"500.00","test_name":"FLUID-CYTOLOGY","testKey":"-LD0YDHre9TveyKhKb0E","_id":"PgKFayabLlcZVOKx"}
+{"group_name":"BIOCHEMISTRY","mrp":"650.00","test_name":"LITHIUM","testKey":"-LD0YDFr7kJmtyth9WH0","_id":"PsG72nqJONEO4nQL"}
+{"group_name":"IMMUNO LOGY","mrp":"1100.00","test_name":"TROP-T","testKey":"-LD0YDJN6AHt94gSNy67","_id":"Q4elrxWB6YIi4epk"}
+{"group_name":"HORMONE ASSAY","mrp":"1200.00","test_name":"PSA (FREE)","testKey":"-LD0YDJ8hJRfn5dzhd7l","_id":"QB6NPe40bZKTOImc"}
+{"group_name":"BIOCHEMISTRY","mrp":"350.00","test_name":"LDH","testKey":"-LD0YDFnHLhsnJpwMX5c","_id":"QKlQ84WsXyDq0iRN"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"USG NECK","testKey":"-LD0YDJohTyuDfOU9O4a","_id":"Qhg4uEeoOUCr6QOR"}
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"KNEE JOINT","testKey":"-LD0YDHizpd_5edUqOtK","_id":"QrwaVHVCcYZUhkIN"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"200.00","test_name":"SPUTUM FOR AFB","testKey":"-LD0YDGpETJIsuX0COwD","_id":"Qui06wb700ryPGwv"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"250.00","test_name":"URINE FOR AFB","testKey":"-LD0YDHFrYccTDd5jjjm","_id":"RHH0CK7J9NIQqzTD"}
+{"group_name":"X-RAY","mrp":"450.00","test_name":"SPINE(DIGITAL)","testKey":"-LD0YDK69W_6rS31BY91","_id":"RRero2tpqXTxVZur"}
+{"group_name":"HORMONE ASSAY","mrp":"2600.00","test_name":"TRIPLE MARKER","testKey":"-LD0YDJGs6vOC5ZbuL4s","_id":"RVq7QGnZe96sLRAz"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"CORTISOL(SERUM)","testKey":"-LD0YDIyxnWj4lzN95Q1","_id":"RfNeSE9YzRjpXxcU"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"HSV 1&2-IGG","testKey":"-LD0YDJ4F_zP18fKTcy2","_id":"S99jBWKBuHw8jhkv"}
+{"group_name":"BIOCHEMISTRY","mrp":"500.00","test_name":"IRON STUDIES","testKey":"-LD0YDFmOrPEMjavq3xe","_id":"SFBFLiCHfhdIyPEK"}
+{"group_name":"BIOCHEMISTRY","mrp":"200.00","test_name":"PHOSPHOROUS","testKey":"-LD0YDG3d54iFzkCLuFm","_id":"SJ5wO29ymYIjPZtE"}
+{"group_name":"HORMONE ASSAY","mrp":"1500.00","test_name":"RUBELLA (IGM)","testKey":"-LD0YDJ8hJRfn5dzhd7m","_id":"SKdVfjEm6E9uqzuL"}
+{"group_name":"X-RAY","mrp":"700.00","test_name":"T L SPINE DIGITAL","testKey":"-LD0YDK69W_6rS31BY92","_id":"STO82J3ErfMej57i"}
+{"group_name":"IMMUNO LOGY","mrp":"600.00","test_name":"MF-ICT","testKey":"-LD0YDJN6AHt94gSNy65","_id":"SV5yL50jQd2zuE6O"}
+{"group_name":"IMMUNO LOGY","mrp":"1000.00","test_name":"HBS AB","testKey":"-LD0YDJINqdbKylddmRB","_id":"SWHRAuxIIB6Jd4nu"}
+{"group_name":"HORMONE ASSAY","mrp":"200.00","test_name":"T4","testKey":"-LD0YDJDYsPKBUEzY3BC","_id":"TE3QtXQQoCkrQMGz"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"CHEST-LAT (DIGITAL)","testKey":"-LD0YDJuvMsH0qeUV3MZ","_id":"TEo48PCzjaTKDat0"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"100.00","test_name":"URINE FOR SUGAR","testKey":"-LD0YDHIBUcYtlwciEiE","_id":"TGUatr0d9VXiZNld"}
+{"group_name":"IMMUNO LOGY","mrp":"1300.00","test_name":"HAV-IgM","testKey":"-LD0YDJHEnzAD6nvwKnT","_id":"TKI9Eko3RxDo4g8f"}
+{"group_name":"X-RAY","mrp":"150.00","test_name":"UPPER EXTERMITY(MANUAL)","testKey":"-LD0YDK69W_6rS31BY94","_id":"TMn7KuE1NgxLjqCU"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"ANTI HBSAB","testKey":"-LD0YDItWd_6ITUt2NPo","_id":"TNfJizkGlePuZz5H"}
+{"group_name":"X-RAY","mrp":"300.00","test_name":"SPINE (MANUAL)","testKey":"-LD0YDK5RECK_tP1kv6f","_id":"TPqY11ozCk90ISbz"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"FOOT AP/ LATERAL","testKey":"-LD0YDJveT1AoGpXhgLB","_id":"TSh5EAnvWYy3LSe9"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"200.00","test_name":"NAIL SCRAPING FOR FUNGUS","testKey":"-LD0YDGnP6gMvKGYhPPe","_id":"TjZqk64TUYcV2w6u"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"300.00","test_name":"VAGINAL DISCHARGE FOR ICDC","testKey":"-LD0YDHSXLkIIuIg5lEY","_id":"TlPJDTmYTCCIhfo7"}
+{"group_name":"MANTOUX TEST","mrp":"200.00","test_name":"MX TEST","testKey":"-LD0YDJORZO03EQuYeGd","_id":"TlWVHZTylBX91818"}
+{"group_name":"X-RAY","mrp":"400.00","test_name":"BARIUM MEAL(MANUAL)","testKey":"-LD0YDJsT1w_D9WNZQKn","_id":"TygyqfAukA3fusnj"}
+{"group_name":"X-RAY","mrp":"700.00","test_name":"LS SPINE(DIGITAL)","testKey":"-LD0YDJzkpUVZkTUuAdZ","_id":"U0n80nERowynPWdH"}
+{"group_name":"IMMUNO LOGY","mrp":"1000.00","test_name":"HBA2F","testKey":"-LD0YDJHEnzAD6nvwKnU","_id":"UDZMXfM2fNGB96MK"}
+{"group_name":"IMMUNO LOGY","mrp":"1700.00","test_name":"HEV-IGM","testKey":"-LD0YDJMzLYlI3hz97Ul","_id":"US80BCvjhbqpjSsB"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"TESTOSTERONE-TOTAL","testKey":"-LD0YDJEFZIVmeP0Q18S","_id":"UsRUWaG9XuXOrGaS"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"EYE SCAN","testKey":"-LD0YDJjF0Lw1rUvIZXI","_id":"VGqpmvvlcnWBdSya"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"MP-QBC","testKey":"-LD0YDJfDOuUrInsLFLy","_id":"VJwJhpCnMVI5WsaG"}
+{"group_name":"ULTRASOUND","mrp":"600.00","test_name":"USG �GRAVIDA UTERUS","testKey":"-LD0YDJmaBzfIrhIdbZN","_id":"VNybFun6FCxumvkC"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"TOXO TEST.","testKey":"-LD0YDJhXRA2lo5CqynZ","_id":"VVTiIthd8n5Eix0z"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"URIC ACID","testKey":"-LD0YDGKxTIQSSqKXWj8","_id":"VcyWkkqxH5CF3Drz"}
+{"group_name":"ECHO","mrp":"1500.00","test_name":"ECHO(Paed.)","testKey":"-LD0YDHuZm8njJxEtp8N","_id":"VpxECl3Mavre7bif"}
+{"group_name":"X-RAY","mrp":"450.00","test_name":"ABDOMEN(DIGITAL)","testKey":"-LD0YDJravXRabG5ajBZ","_id":"W2VZipEmTUXAzF3l"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"SEMEN-C/S","testKey":"-LD0YDJRtx_VzDs4zEe-","_id":"W2ko0Es0J6cLHPQ3"}
+{"group_name":"HORMONE ASSAY","mrp":"600.00","test_name":"CMV(IGM)","testKey":"-LD0YDIyxnWj4lzN95Q0","_id":"W83L8nJ7BBToF7Ws"}
+{"group_name":"BIOCHEMISTRY","mrp":"350.00","test_name":"CK-NAC","testKey":"-LD0YDFcKoXpnqni5Uey","_id":"WCEqOj7tkgr9d1Z4"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"50.00","test_name":"STOOL R/M","testKey":"-LD0YDGvi33D5er-tml9","_id":"WnM4uD0gC4strdFR"}
+{"group_name":"HAEMATOLOGY","mrp":"50.00","test_name":"HB �%","testKey":"-LD0YDI1vMAW18WXC1mj","_id":"Ws63HKZ3h9dkNW05"}
+{"group_name":"X-RAY","mrp":"150.00","test_name":"CHEST-PA VIEW(MANUAL)","testKey":"-LD0YDJuvMsH0qeUV3Ma","_id":"XdrChcYBxECQ0Tw0"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"VAGIAL SWAB-C/S","testKey":"-LD0YDJStJ2oojP-AOca","_id":"XnoeDF9Z4YSrjH4t"}
+{"group_name":"HORMONE ASSAY","mrp":"550.00","test_name":"PROLACTIN","testKey":"-LD0YDJ8hJRfn5dzhd7j","_id":"YIUDTtih9BQgnQ8h"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"200.00","test_name":"SKIN SCRAPING FOR FUNGUS","testKey":"-LD0YDGpETJIsuX0COwB","_id":"Z7hpFS5AP0FnVKrp"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"100.00","test_name":"URINE BS/BP","testKey":"-LD0YDHEWmEWOearxwSy","_id":"Z7xKl6KbhdBUyR7s"}
+{"group_name":"HORMONE ASSAY","mrp":"550.00","test_name":"LH","testKey":"-LD0YDJ7XyylGXNZ0cGd","_id":"Z85KMAgo1lJcQgmP"}
+{"group_name":"X-RAY","mrp":"1000.00","test_name":"HSG (DIGITAL)","testKey":"-LD0YDJwazqEzgOx2eDj","_id":"ZQOhmpNTnV9b9N9C"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"Post Prandial Blood Sugar(2 Hrs.)","testKey":"-LD0YDG40RXHefuSzEb2","_id":"ZQrpk2EcV67Yk3iK"}
+{"group_name":"CYTOLOGY","mrp":"500.00","test_name":"F.N.A.C","testKey":"-LD0YDHre9TveyKhKb0D","_id":"ZuPiE1f0x0ihv1B8"}
+{"group_name":"BIOCHEMISTRY","mrp":"350.00","test_name":"ADA","testKey":"-LD0YDFQPBsEYi_sJD6U","_id":"ZyEZ5h1qHf7xvmaQ"}
+{"group_name":"HORMONE ASSAY","mrp":"1200.00","test_name":"ANTI CARDIOLIPIN ANTIBODY, IgG(S055)","testKey":"-LD0YDIsYNhn5K0_STmo","_id":"a66Zk6M0gMPVMKEQ"}
+{"group_name":"HAEMATOLOGY","mrp":"1200.00","test_name":"SERUM ELECTROPHORESIS","testKey":"-LD0YDIlJiJaytWFw2WE","_id":"aFw21NDj7uSL5u6Z"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"SKULL-PNS(DIGITAL)","testKey":"-LD0YDK4bO2t-1ljtfVf","_id":"ahHePtuaySJgWkZX"}
+{"group_name":"ECHO","mrp":"1200.00","test_name":"TMT","testKey":"-LD0YDHvbEyF1RPJxHQL","_id":"aiJWAHd3NRt9N4qa"}
+{"group_name":"HORMONE ASSAY","mrp":"1200.00","test_name":"ANTI CARDIOLIPIN ANTIBODY, IgM(S054)","testKey":"-LD0YDIsYNhn5K0_STmp","_id":"al4HX36fmNCdqZXl"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"WB CLOTTING TIME","testKey":"-LD0YDGkkf_AfW1SgKSD","_id":"atrJr8WMh5aB4hrA"}
+{"group_name":"HORMONE ASSAY","mrp":"1500.00","test_name":"RUBELLA AVIDITY(IgG)","testKey":"-LD0YDJ8hJRfn5dzhd7n","_id":"b8yPGCOQyX36SO71"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"ANTI HBEAG","testKey":"-LD0YDItWd_6ITUt2NPn","_id":"bCjoVFYOPGZFgO22"}
+{"group_name":"X-RAY","mrp":"845.00","test_name":"BOTH  KNEE AP/LATERAL","testKey":"-LD0YDJsT1w_D9WNZQKp","_id":"bbuiza21uTB7WcrQ"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"300.00","test_name":"URETHRAL DISCHARGE FOR GONO COCCI","testKey":"-LD0YDGyJnFvUgblppAU","_id":"bf75USDVULrNmaZt"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"SKULL-MASTOID(DIGITAL)","testKey":"-LD0YDK4bO2t-1ljtfVe","_id":"blAj9UEqGwfuBby9"}
+{"group_name":"HORMONE ASSAY","mrp":"800.00","test_name":"PSA","testKey":"-LD0YDJ8hJRfn5dzhd7k","_id":"bqyTCZabO13iHJ5g"}
+{"group_name":"HISTOPATHOLOGY","mrp":"1200.00","test_name":"BIOPSY-LARGE","testKey":"-LD0YDIn_-8b57Vs60oo","_id":"btoPswWrq2T3Ty1f"}
+{"group_name":"X-RAY","mrp":"250.00","test_name":"NECK DIGITAL","testKey":"-LD0YDJzkpUVZkTUuAda","_id":"bxKCnVjCGFI6ioFz"}
+{"group_name":"REPORTING","mrp":"80.00","test_name":"REPORTING RS-80","testKey":"-LD0YDJUjoW3BnOLOZof","_id":"c0FBchKQWBp2VCp3"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"70.00","test_name":"URINE FOR ALBUMIN","testKey":"-LD0YDHFrYccTDd5jjjn","_id":"c130LlrgNFDg5BNh"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"Random Blood Sugar","testKey":"-LD0YDG5be11TzciLvG2","_id":"c4OZRHlIO5E2YikN"}
+{"group_name":"CT SCAN","mrp":"2000.00","test_name":"BRAIN  (PLAIN)","testKey":"-LD0YDHY_cb3ICXFWARe","_id":"c63AUEzS5gXjJdCy"}
+{"group_name":"HORMONE ASSAY","mrp":"1500.00","test_name":"VIT-D3","testKey":"-LD0YDJGs6vOC5ZbuL4v","_id":"cPw0cVNXiA9hpUkv"}
+{"group_name":"HAEMATOLOGY","mrp":"500.00","test_name":"LE-CELL","testKey":"-LD0YDIAByKMHzmjUzQA","_id":"cgLKcg2dc6IpdluN"}
+{"group_name":"ECG","mrp":"200.00","test_name":"ECG.","testKey":"-LD0YDHuZm8njJxEtp8K","_id":"cza8NXsrF9mYNk7D"}
+{"group_name":"HORMONE ASSAY","mrp":"3000.00","test_name":"TB(PCR)","testKey":"-LD0YDJDYsPKBUEzY3BD","_id":"dcrAGMuT4WA5uSyM"}
+{"group_name":"HAEMATOLOGY","mrp":"200.00","test_name":"RETICULOCYTE COUNT","testKey":"-LD0YDIlJiJaytWFw2WD","_id":"dnyewo4AdHzGcSaR"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"250.00","test_name":"SEMEN ANALYSIS","testKey":"-LD0YDGoHnTCRW-UeMJF","_id":"dwQUpD4VJp22TKdN"}
+{"group_name":"IMMUNO LOGY","mrp":"1600.00","test_name":"ANTI HCV(ELISA)","testKey":"-LD0YDJHEnzAD6nvwKnR","_id":"eAcXOdkIuqbBGXhL"}
+{"group_name":"SEROLOGY","mrp":"350.00","test_name":"C.R.P","testKey":"-LD0YDJXNLXANDkxQoiw","_id":"eBNVjyp9u78AmOeU"}
+{"group_name":"HORMONE ASSAY","mrp":"1500.00","test_name":"CA-19.9","testKey":"-LD0YDIxNkxH6xBevukT","_id":"eWvs3jlJlcPm0vD8"}
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"BRAIN & FACE","testKey":"-LD0YDHY_cb3ICXFWARf","_id":"f1lNXd2JIRBctZov"}
+{"group_name":"HORMONE ASSAY","mrp":"1800.00","test_name":"LUPUS ANTICOAGULANT-LAL(H123)","testKey":"-LD0YDJ7XyylGXNZ0cGe","_id":"fYPe55EQ3OsqfqD4"}
+{"group_name":"IMMUNO LOGY","mrp":"8200.00","test_name":"HBV DNA PCR(QUANTITATIVE)","testKey":"-LD0YDJKb1jlgzwRGhHj","_id":"fioJWgyt4aMwDfwl"}
+{"group_name":"X-RAY","mrp":"600.00","test_name":"BARIUM MEAL(DIGITAL)","testKey":"-LD0YDJsT1w_D9WNZQKm","_id":"g04aoX5A2Yy3C0il"}
+{"group_name":"BIOCHEMISTRY","mrp":"600.00","test_name":"G6-PD, QUANTITATIVE","testKey":"-LD0YDFfJBdkVc3HdWkH","_id":"gJVcJl8qf7I4yqr0"}
+{"group_name":"HISTOPATHOLOGY","mrp":"600.00","test_name":"BIOPSY-MEDIUM","testKey":"-LD0YDIn_-8b57Vs60op","_id":"gLYIfWr2fZELkcsL"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"LOWER EXTERMITY(DIGITAL)","testKey":"-LD0YDJyN3GCASBPa2SZ","_id":"ga0wx2dxzjvL3DAQ"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"GROWTH HORMONE(GH)","testKey":"-LD0YDJ2r1aHw1MRsQQt","_id":"gbfGwRQ1fNzyR136"}
+{"group_name":"HORMONE ASSAY","mrp":"700.00","test_name":"E2(ESTRADIOL)","testKey":"-LD0YDJ1nu7wD9oEH4bL","_id":"gppLlMxSFz0aa2w5"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"EYE(CONJUNCTIVAL)-C/S","testKey":"-LD0YDJPdQFlXPj2G8bn","_id":"h8SsJRrmM58skqlT"}
+{"group_name":"ECHO","mrp":"1200.00","test_name":"ECHO CARDIOGRAPHY","testKey":"-LD0YDHuZm8njJxEtp8M","_id":"hbkHjPuJnbmmSCGj"}
+{"group_name":"HORMONE ASSAY","mrp":"250.00","test_name":"FT4","testKey":"-LD0YDJ2r1aHw1MRsQQs","_id":"iCYGgVufzxofAl7O"}
+{"group_name":"X-RAY","mrp":"1500.00","test_name":"HOME SERVICE X-RAY","testKey":"-LD0YDJwazqEzgOx2eDi","_id":"iHZQlj5wWkuGpZsb"}
+{"group_name":"CT SCAN","mrp":"4000.00","test_name":"WRIST JOINT","testKey":"-LD0YDHojpgC98eErdp2","_id":"iLmfBvYdkhlBJH41"}
+{"group_name":"BIOCHEMISTRY","mrp":"200.00","test_name":"CHOLESTEROL","testKey":"-LD0YDFZRdL-7zDAI2Tr","_id":"ivtBeJzJpaMJaz98"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"TOXO IGG/IGM (ELISA)","testKey":"-LD0YDJFe3_dUWH3HUUM","_id":"j9sgiKZrjC7xoSAP"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"NASAL SWAB-C/S","testKey":"-LD0YDJQ_VKJvYc77QqA","_id":"jWjJIpI1KjxLq4BQ"}
+{"group_name":"SEROLOGY","mrp":"1000.00","test_name":"DENGUE","testKey":"-LD0YDJZ3I-p3CRQopqT","_id":"jpn9WtQV4Hj4CCO0"}
+{"group_name":"X-RAY","mrp":"300.00","test_name":"SKULL-AP/LAT(MANUAL)","testKey":"-LD0YDK2_PdbBXjK9PiD","_id":"jsBsin3Bifp8gMeq"}
+{"group_name":"HORMONE ASSAY","mrp":"1500.00","test_name":"LEPTOSPIRA-IGM(ELISA)","testKey":"-LD0YDJ7XyylGXNZ0cGc","_id":"jthAz6MbbD9QlxnK"}
+{"group_name":"BIOCHEMISTRY","mrp":"200.00","test_name":"GTT(3 SAMPLE)","testKey":"-LD0YDFhtHvVoP0EbrEa","_id":"jwQrkotsx62apcVr"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"CHEST-AP/LAT (DIGITAL)","testKey":"-LD0YDJtVXoi8Bg_E-AU","_id":"jzjpMWmnVh43JdTV"}
+{"group_name":"SEROLOGY","mrp":"550.00","test_name":"HHH","testKey":"-LD0YDJ_91DnQe8o4qWn","_id":"k2S8EF5uQXgFxpD0"}
+{"group_name":"IMMUNO LOGY","mrp":"1000.00","test_name":"HIV-ELISA","testKey":"-LD0YDJN6AHt94gSNy64","_id":"k8819v7KZ9BwrW5f"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"ASO(QUANTITATIVE)","testKey":"-LD0YDJXNLXANDkxQoiv","_id":"k9Yrshx9iPAMgllU"}
+{"group_name":"HORMONE ASSAY","mrp":"1300.00","test_name":"ANTI TPO","testKey":"-LD0YDIvKu3nnJzq8Ioi","_id":"kNdc8qqNTqHMDVT5"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"SGPT(ALT)","testKey":"-LD0YDGF1AYsSkz5CioO","_id":"kiaP7Y7f6yBKnXIj"}
+{"group_name":"X-RAY","mrp":"150.00","test_name":"SHOULDER(MANUAL)","testKey":"-LD0YDK1sNXAVqnMSlSQ","_id":"kjfGwvw3jwGXZf5n"}
+{"group_name":"SEROLOGY","mrp":"250.00","test_name":"HIV","testKey":"-LD0YDJ_91DnQe8o4qWo","_id":"kln6vLBCC4c8U6ut"}
+{"group_name":"X-RAY","mrp":"150.00","test_name":"LOWER EXTERMITY(MANUAL)","testKey":"-LD0YDJyN3GCASBPa2S_","_id":"kwkDNYsbXKGa7WA2"}
+{"group_name":"SEROLOGY","mrp":"650.00","test_name":"H.PYLORI TEST","testKey":"-LD0YDJZ3I-p3CRQopqU","_id":"lAFpJ3uFwnLpNbHA"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"PGBS-1HR","testKey":"-LD0YDG-W4PwzCkkGLaB","_id":"lNsBPu63scXCy8Ta"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"COLOUR DOPPLER","testKey":"-LD0YDJiZCrLSiMwgmMM","_id":"lV3StCpdIhGxUaah"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"USG SKULL","testKey":"-LD0YDJpeaw9bKs_P_R0","_id":"lXC678QEc5sLGhJx"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"100.00","test_name":"URINE FOR UROBILINOGEN","testKey":"-LD0YDHIBUcYtlwciEiF","_id":"lXSGGIwoLmSkgZbu"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"CRP(QUANTITATIVE)","testKey":"-LD0YDJYyq7xZAgPOMYp","_id":"lmdcspbJQ4sNLYsj"}
+{"group_name":"IMMUNO LOGY","mrp":"1800.00","test_name":"HEPATITIS B CORE-IGM","testKey":"-LD0YDJLhRSy5Nc_9z9T","_id":"lpBHdxq8lhZSyA3x"}
+{"group_name":"IMMUNO LOGY","mrp":"250.00","test_name":"HBS AG","testKey":"-LD0YDJJnbrW-QcU7qc1","_id":"lpgnemq8wPlZYOEo"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"CHEST-AP VIEW DIGITAL","testKey":"-LD0YDJtVXoi8Bg_E-AT","_id":"mITbFVT3iy8YbCVS"}
+{"group_name":"ULTRASOUND","mrp":"600.00","test_name":"USG OF PELVICS REGION","testKey":"-LD0YDJpeaw9bKs_P_R-","_id":"mUoXQoPhKQ7hwtER"}
+{"group_name":"X-RAY","mrp":"150.00","test_name":"ABDOMEN(MANUAL)","testKey":"-LD0YDJravXRabG5ajB_","_id":"mbbL4NO9iU2PbPFd"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"ALBUMIN","testKey":"-LD0YDFSR5z2kyhFzmTT","_id":"mjA8zCcnjwXZTwXg"}
+{"group_name":"HORMONE ASSAY","mrp":"1200.00","test_name":"ANTI DS-DNA","testKey":"-LD0YDIsYNhn5K0_STmr","_id":"mja46xABzW6pOsgH"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"SHOULDER(DIGITAL)","testKey":"-LD0YDK0tkRnvZF0f_hi","_id":"n4klP1kF0SC08vCv"}
+{"group_name":"ULTRASOUND","mrp":"600.00","test_name":"USG TVS FOR FOLLICULAR STUDY","testKey":"-LD0YDJqhbr9csGG6HWX","_id":"ncHojqLX1DU545Nd"}
+{"group_name":"BIOCHEMISTRY","mrp":"400.00","test_name":"URINE(NA+,K+,CL-)","testKey":"-LD0YDGjb4NFG5Ju7R8F","_id":"ne4JgwLKUiYYPZR3"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"CEA","testKey":"-LD0YDIxNkxH6xBevukU","_id":"neB6AiujIuTPnkmj"}
+{"group_name":"IMMUNO LOGY","mrp":"1900.00","test_name":"DENGUE-IGG/IGM(ELISA)","testKey":"-LD0YDJHEnzAD6nvwKnS","_id":"nmipm7OHY9ejGwSx"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"50.00","test_name":"URINE ANALYSIS","testKey":"-LD0YDHDSFCe0ZSPgEVA","_id":"npWZIKnyWad7nDPL"}
+{"group_name":"HORMONE ASSAY","mrp":"1400.00","test_name":"ANTI HBC AG","testKey":"-LD0YDIsYNhn5K0_STms","_id":"o3WY7T0NNWwMbuKq"}
+{"group_name":"CT SCAN","mrp":"300.00","test_name":"FILM EXTRA","testKey":"-LD0YDHhRMMmvrzL4yLV","_id":"o4YiPAFdclmTrg3d"}
+{"group_name":"HORMONE ASSAY","mrp":"1500.00","test_name":"RUBELLA(IGG)","testKey":"-LD0YDJ9dKX7IhGCOuCv","_id":"oMTgrbO3lnhs5Asj"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"PELVICS(DIGITAL)","testKey":"-LD0YDK-VnHSPRdDkXNQ","_id":"oOdXYDPW3fGRVMC9"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"UPPER EXTERMITY(DIGITAL)","testKey":"-LD0YDK69W_6rS31BY93","_id":"oQLAdgiTVkpLdwVV"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"50.00","test_name":"URINE R/M","testKey":"-LD0YDHLDz4A5Ars2E75","_id":"oRBRl8Hs0LugVtAm"}
+{"group_name":"HORMONE ASSAY","mrp":"250.00","test_name":"FT3","testKey":"-LD0YDJ2r1aHw1MRsQQq","_id":"oTFCMLwyUKSkeZj8"}
+{"group_name":"CT SCAN","mrp":"7000.00","test_name":"ABDOMEN & PELVIS","testKey":"-LD0YDHSXLkIIuIg5lEZ","_id":"oubu0vGczIUHO8uB"}
+{"group_name":"HORMONE ASSAY","interpretations":{"1":"Vit B12 may be decreased in following conditions: <br/> Untreated vitamin B12 deficiency usually resulting in megaloblastic anemia. Causes: Lack of IF ( PA, total or partial gastrectomy, atropic gastritis, intrinsic factor antibody); malabsorption (e.g., regional ileitis, resected bowel, sprue, celiac disease, pancreatic insufficiency, small bowel bacterial overgrowth, achlorhydria); loss of ingested vit B12 ( Fish tape worm); dietary deficiency (vegetarians); congenital disorders (orotic aciduria, transcobalamin deficiency, Immerslund- Grosbeck syndrome); progressive decrease during pregnancy sometimes to below normal levels in the last trimester (normal serum B12 in megaloblastic anemia of pregnancy). ","3":"Mild to modest decrease with normal T3 & T4 indicates subclinical hyperthyroidism.","4":"Degree of TSH suppression does not reflect the severity of hyperthyroidism, therefore, measurement of free thyroid hormone levels is required in patient with a supressed TSH level.","5":"If free T4 is normal, free T3 should be checked as it is the first hormone to increase in early hyperthyroidism. Though TSH levels can also be used to effectively monitor patients being treated with thyroid hormones but it may be misleading. Therefore total or free T4 generally serve as front line assay during this period. The free T3 & T4 (FT3 & FT4) measures concentrations of free hormones, which are not affected by changing in concentrations of binding proteins, therefore more reliable indicator of true thyroid status.","guide1":"Circulating TSH measurement has been used for screening for euthyroidism, screening and diagnosis for hyperthyroidism & hypothyroidism. Suppressed TSH (<0.01 μIU/mL) suggests a diagnosis of hyperthyroidism and elevated concentration (>7 μIU/mL) suggest hypothyroidim. TSH levels may be affected by acute illness & several medications including dopamine and glucocorticoids. Decreased (low or undetectable) in Graves disease. Increased in TSH secreting pituitary adenoma (secondary hyperthyroidism), PRTH and in hypothalamic disease thyrotropin (tertiary hyperthyroidism). Elevated in hypothyroidism (along with decreased T4) except for pituitary & hypothalamic disease.","guide2":"Mild to modest elevations in patient with normal T3 & T4 levels indicates impaired thyroid hormone reserves & incipent hypothyroidism (subclinical hypothyroidism)."},"method":"Chemiluminescence Immunoassay (CLIA);","mrp":"500.00","test_name":"T3,T4,TSH","testKey":"-LD0YDJ9dKX7IhGCOuCx","_id":"oyzfY6BUfQXVI2Mt"}
+{"group_name":"REPORTING","mrp":"200.00","test_name":"MER","testKey":"-LD0YDJStJ2oojP-AOcb","_id":"p7uABNnvD5jswRq2"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"UREA","testKey":"-LD0YDGKxTIQSSqKXWj7","_id":"p9EUKaYbmHpVXCtU"}
+{"group_name":"SEROLOGY","mrp":"1000.00","test_name":"CHIKUNGUNYA","testKey":"-LD0YDJXNLXANDkxQoix","_id":"pGwUXePM7qyovxVT"}
+{"group_name":"BIOCHEMISTRY","mrp":"350.00","test_name":"CK-MB","testKey":"-LD0YDFbN7PnKzgv6Amw","_id":"pKUq7xNk8GAy7BbQ"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"MF-QBC","testKey":"-LD0YDJcUjyb69TpJtfu","_id":"pWnPM3R311DkNIOy"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"100.00","test_name":"URINE FOR KB","testKey":"-LD0YDHGe9oSnMcj8sbV","_id":"pgK1a93FuBTyhXbl"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"100.00","test_name":"SKIN SMEAR FOR AFB","testKey":"-LD0YDGpETJIsuX0COwC","_id":"plaIANPfWuHQmWiw"}
+{"group_name":"HAEMATOLOGY","mrp":"150.00","test_name":"MP-SLIDE TEST","testKey":"-LD0YDINq26UmIHSP6xs","_id":"pod47NJFLpE1T1pX"}
+{"group_name":"HORMONE ASSAY","mrp":"1800.00","test_name":"TESTOSTERONE (FREE)","testKey":"-LD0YDJDYsPKBUEzY3BE","_id":"pvTnBbnaTFV0Oniv"}
+{"group_name":"IMMUNO LOGY","mrp":"3280.00","test_name":"HEPATITIS B PROFILE","testKey":"-LD0YDJMzLYlI3hz97Uk","_id":"qDosx7MzIOBSOhXs"}
+{"group_name":"HORMONE ASSAY","mrp":"200.00","test_name":"T3","testKey":"-LD0YDJ9dKX7IhGCOuCw","_id":"qLps15hpWXblRBLZ"}
+{"group_name":"BIOCHEMISTRY","mrp":"50.00","test_name":"Post Prandial Blood Sugar(1 Hr.)","testKey":"-LD0YDG40RXHefuSzEb1","_id":"qS5jrVorirP0Vb8b"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"USG �THYROID","testKey":"-LD0YDJnleSrzldoz9a1","_id":"qXJB3ssS9C3oNyjp"}
+{"group_name":"CT SCAN","mrp":"3500.00","test_name":"UPPER ABDOMEN","testKey":"-LD0YDHmGUPFoJW8_swy","_id":"qwXJgjaCvAo5nrAP"}
+{"group_name":"BIOCHEMISTRY","mrp":"600.00","test_name":"FERRITIN","testKey":"-LD0YDFeAi6bD-NOmTSO","_id":"r6RN9bTbXu1KhrIV"}
+{"group_name":"BIOCHEMISTRY","mrp":"450.00","test_name":"URINE MICRO ALBUMIN","testKey":"-LD0YDGiG63T-v7JsGgb","_id":"rBFK62KtQBPpzvDD"}
+{"group_name":"HAEMATOLOGY","mrp":"250.00","test_name":"CBC","testKey":"-LD0YDHzQdFhAbU5swmI","_id":"rEdA4WkDxGg6gKDY"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"SKULL-LAT VIEW(DIGITAL)","testKey":"-LD0YDK334BWVKrRBG3w","_id":"rZEwEkfuh2ExsDBa"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"200.00","test_name":"SPUTUM FOR GM STAIN","testKey":"-LD0YDGrlz8n2AeUFfw1","_id":"ruoOk1eAPG63uHBt"}
+{"group_name":"HAEMATOLOGY","mrp":"50.00","test_name":"ESR","testKey":"-LD0YDI1vMAW18WXC1mi","_id":"s21HXq3SUPYQ3arr"}
+{"group_name":"CYTOLOGY","mrp":"500.00","test_name":"SCRAP CYTOLOGY","testKey":"-LD0YDHserbTEUKfGeFd","_id":"s9KysRtvQPyvz4ok"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"USG JOINT LIGAMENT","testKey":"-LD0YDJnleSrzldoz9a3","_id":"sA3NtdcynBFmyh5X"}
+{"group_name":"SEROLOGY","mrp":"1000.00","test_name":"MICRO FILARIA-ANTIBODY","testKey":"-LD0YDJdMUNB22_0nIWJ","_id":"sHhZPA8wJWcU4aCm"}
+{"group_name":"HAEMATOLOGY","mrp":"350.00","test_name":"INDIRECT COOMBS TEST","testKey":"-LD0YDI2nQVf9D6ote5H","_id":"srHQf9iBP6gsZHSa"}
+{"group_name":"BIOCHEMISTRY","mrp":"150.00","test_name":"SGOT(AST)","testKey":"-LD0YDG8M6PVxpvjPrAl","_id":"t89SjfxGOJfCUR9b"}
+{"group_name":"CT SCAN","mrp":"3500.00","test_name":"LOWER ABDOMEN","testKey":"-LD0YDHkAeuQInxH3Vwk","_id":"tSpYQJeYSjcMITUL"}
+{"group_name":"IMMUNO LOGY","mrp":"800.00","test_name":"TOXO-IGM(ELISA-S015)","testKey":"-LD0YDJN6AHt94gSNy66","_id":"tlzRCyuxR9w5AJt6"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"USG CYST","testKey":"-LD0YDJnleSrzldoz9a2","_id":"tmFfxTp5U44vJbPg"}
+{"group_name":"BIOCHEMISTRY","mrp":"200.00","test_name":"TRIGLYCERIDE","testKey":"-LD0YDGJm8RNn6EKw7FL","_id":"u7nxwhrHBFirzohr"}
+{"group_name":"CT SCAN","mrp":"7000.00","test_name":"WHOLE ABDOMEN","testKey":"-LD0YDHnSx6pdSlNO5cH","_id":"uMMWN7uWT5htugfV"}
+{"group_name":"HORMONE ASSAY","mrp":"700.00","test_name":"B-HCG(SERUM)","testKey":"-LD0YDIvKu3nnJzq8Ioj","_id":"uZuGmnLBt3bk0cSC"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"RECTAL C/S","testKey":"-LD0YDJQ_VKJvYc77QqD","_id":"udxosaNaSDNvLG6J"}
+{"group_name":"HAEMATOLOGY","mrp":"300.00","test_name":"APTT","testKey":"-LD0YDHx-B_-4IHJYoOp","_id":"uhrgUJbzQruyqb3M"}
+{"group_name":"ECHO","mrp":"1200.00","test_name":"2D ECHO","testKey":"-LD0YDHuZm8njJxEtp8L","_id":"usu226dirzEi6qwx"}
+{"group_name":"HORMONE ASSAY","mrp":"1000.00","test_name":"INSULIN-PP(R042)","testKey":"-LD0YDJ6JavOdy50XbKs","_id":"vDMF9xPToZz7N0op"}
+{"group_name":"HORMONE ASSAY","mrp":"550.00","test_name":"FT3,FT4,TSH","testKey":"-LD0YDJ2r1aHw1MRsQQr","_id":"vNkqIlleC9MileT2"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"RA(QUANTITATIVE)","testKey":"-LD0YDJfDOuUrInsLFM-","_id":"vOWQMWzqb7HhQ1Uc"}
+{"group_name":"X-RAY","mrp":"350.00","test_name":"SKULL-AP VIEW(DIGITAL)","testKey":"-LD0YDK2_PdbBXjK9PiB","_id":"vhckuwKnMM8gmN3n"}
+{"group_name":"SEROLOGY","mrp":"200.00","test_name":"WIDAL","testKey":"-LD0YDJiZCrLSiMwgmML","_id":"viJOquxOWbzxNZQG"}
+{"group_name":"HAEMATOLOGY","mrp":"50.00","test_name":"BLOOD GROUPING","testKey":"-LD0YDHys4KKfN_z83vx","_id":"w4XwjB8Jhaakd1Of"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"150.00","test_name":"URINE FOR CHYLE","testKey":"-LD0YDHGe9oSnMcj8sbU","_id":"w4r34haslAW9qa35"}
+{"group_name":"SEROLOGY","mrp":"350.00","test_name":"MP-OPTIMAL","testKey":"-LD0YDJeMQ3i7QqNZuTn","_id":"w5ZgYCLoGMHIGncJ"}
+{"group_name":"HAEMATOLOGY","mrp":"150.00","test_name":"ABSOLUTE NEUTROPHIL COUNT","testKey":"-LD0YDHwzwOvFTdbVI6o","_id":"w6wx0oOEJZroMJ0c"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"SPUTUM AFB-QBC","testKey":"-LD0YDJfDOuUrInsLFM0","_id":"w7gbQ2ZBvKnz7dbK"}
+{"group_name":"ULTRASOUND","mrp":"1200.00","test_name":"USG ��BREAST","testKey":"-LD0YDJmaBzfIrhIdbZL","_id":"wCFxPMEypQz7EVIz"}
+{"group_name":"MICROBIOLOGY","mrp":"350.00","test_name":"PUS C/S","testKey":"-LD0YDJQ_VKJvYc77QqB","_id":"wDT2lUKHA1GENgve"}
+{"group_name":"BIOCHEMISTRY","mrp":"450.00","test_name":"URINE PROTEIN(24HR)","testKey":"-LD0YDGjb4NFG5Ju7R8E","_id":"wMSmzu5UaTRExei8"}
+{"group_name":"HORMONE ASSAY","mrp":"200.00","test_name":"TSH","testKey":"-LD0YDJGs6vOC5ZbuL4t","_id":"wVpANT4uPBb48V06"}
+{"group_name":"HORMONE ASSAY","mrp":"2800.00","test_name":"KARYOTYPING","testKey":"-LD0YDJ6JavOdy50XbKt","_id":"wgNNOxkW2d7H27BP"}
+{"group_name":"X-RAY","mrp":"500.00","test_name":"SKULL-AP/LAT(DIGITAL)","testKey":"-LD0YDK2_PdbBXjK9PiC","_id":"wnmLtXmfgKDuBtlO"}
+{"group_name":"MICROBIOLOGY","mrp":"450.00","test_name":"AURAL SWAB-C/S","testKey":"-LD0YDJORZO03EQuYeGe","_id":"xjZ0zkfDKyabLmku"}
+{"group_name":"SEROLOGY","mrp":"250.00","test_name":"HBsAg","testKey":"-LD0YDJ_91DnQe8o4qWm","_id":"xkC4o0nji74CDOvn"}
+{"group_name":"HAEMATOLOGY","mrp":"100.00","test_name":"PCV","testKey":"-LD0YDIkBlabMecWaffX","_id":"xuWXbNFdH7YuV69T"}
+{"group_name":"BIOCHEMISTRY","mrp":"100.00","test_name":"URINE ALBUMIN(SPOT URINE)","testKey":"-LD0YDGKxTIQSSqKXWj9","_id":"xwKcU5e8TGbvIdPI"}
+{"group_name":"CT SCAN","mrp":"1000.00","test_name":"CONTRAST","testKey":"-LD0YDHhRMMmvrzL4yLU","_id":"y5uGCotxEAlDY9bV"}
+{"group_name":"CYTOLOGY","mrp":"500.00","test_name":"PLEURAL FLUID-CYTOLOGY","testKey":"-LD0YDHserbTEUKfGeFc","_id":"yK25A5y5TtxbpxZn"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"100.00","test_name":"URINE FOR OB","testKey":"-LD0YDHHghJJ-rzFclbS","_id":"yRv839wRA4uADQg3"}
+{"group_name":"X-RAY","mrp":"150.00","test_name":"PELVICS(MANUAL)","testKey":"-LD0YDK-VnHSPRdDkXNR","_id":"yXnTfUsOkXJw9G8z"}
+{"group_name":"HORMONE ASSAY","mrp":"600.00","test_name":"AFP","testKey":"-LD0YDIrTvymlAvFL2ql","_id":"yx5f7jFca17zr51T"}
+{"group_name":"IMMUNO LOGY","mrp":"1000.00","test_name":"HBEAG","testKey":"-LD0YDJINqdbKylddmRA","_id":"z1RwCNgbHj4pNWWa"}
+{"group_name":"X-RAY","mrp":"1000.00","test_name":"RGU(DIGITAL)","testKey":"-LD0YDK0tkRnvZF0f_hh","_id":"z3rucNcjTqTpMhXw"}
+{"group_name":"SEROLOGY","mrp":"500.00","test_name":"TOXO TEST 1:256","testKey":"-LD0YDJgCO7gLiNXIJnp","_id":"zZ9xu00QxlO6sEUC"}
+{"group_name":"CLINICAL PATHOLOGY","mrp":"150.00","test_name":"NEW TEST","testKey":"-LD0YDGoHnTCRW-UeMJE","_id":"ze22WIRW4cTvXtXr"}
+{"group_name":"BIOCHEMISTRY","mrp":"200.00","test_name":"CALCIUM","testKey":"-LD0YDFWWpXUNBxORzrE","_id":"zmfMsR11GrvCrYsx"}
+{"group_name":"BIOCHEMISTRY","mrp":"550.00","test_name":"LFT","testKey":"-LD0YDFpv6V_o6HWpFPg","_id":"zoDEtk8MzhcLXnG9"}
